@@ -370,6 +370,78 @@
           "text": "Leve a pizza de frango com catupiry ao forno preaquecido até a massa dourar levemente embaixo e o catupiry derreter."
         }
       ]
+    },
+    {
+      "id": "7",
+      "name": "Arroz doce",
+      "total_ingredients": "8",
+      "time": 40,
+      "cover": "https://bakeandcakegourmet.com.br/uploads/site/receitas/arroz-doce-sem-leite-ikz3g2us.jpg",
+      "video": "https://www.youtube.com/watch?v=ZROFuC4-8-U",
+      "ingredients": [
+        {
+          "id": "1",
+          "name": "Arroz branco",
+          "amount": "1 xícara"
+        },
+        {
+          "id": "2",
+          "name": "Água",
+          "amount": "2 xícaras"
+        },
+        {
+          "id": "3",
+          "name": "Leite integral",
+          "amount": "1 litro"
+        },
+        {
+          "id": "4",
+          "name": "Leite condensado",
+          "amount": "1 lata"
+        },
+        {
+          "id": "5",
+          "name": "Açúcar",
+          "amount": "1/2 xícara"
+        },
+        {
+          "id": "6",
+          "name": "Canela em pau",
+          "amount": "1 unidade"
+        },
+        {
+          "id": "7",
+          "name": "Cravo-da-índia",
+          "amount": "3 unidades"
+        },
+        {
+          "id": "8",
+          "name": "Canela em pó",
+          "amount": "à gosto"
+        }
+      ],
+      "instructions": [
+        {
+          "id": "1",
+          "text": "Lave o arroz e cozinhe com a água, a canela em pau e os cravos até a água secar e os grãos ficarem macios."
+        },
+        {
+          "id": "2",
+          "text": "Adicione o leite e o açúcar. Cozinhe em fogo baixo por 15 a 20 minutos, mexendo de vez em quando, até engrossar."
+        },
+        {
+          "id": "3",
+          "text": "Retire a canela em pau e os cravos. Incorpore o leite condensado e cozinhe por mais 5 minutos, mexendo sempre."
+        },
+        {
+          "id": "4",
+          "text": "Desligue o fogo quando estiver cremoso. Lembre que ele engrossa mais ao esfriar."
+        },
+        {
+          "id": "5",
+          "text": "Sirva quente ou gelado, polvilhado com canela em pó."
+        }
+      ]
     }
   ]
 }
